@@ -51,14 +51,14 @@ final_project_5_taxi<br>
  * Данные поездок Taxi могут быть скачаны по ссылке: https://disk.yandex.ru/d/DKeoopbGH1Ttuw
  * Файлы формата "ipynb" могут быть открыты в JupyterNotebook или Google Colab (также дополнительно приложена ссылка на образ докера, в котором уже есть JupyterLab и Spark и имеются нужные настройки).
  *   1) Запустите кластер командой " docker-compose up ", файл docker-compos прикреплён в структуре проекта проекта;
-*Скрин 1: docker-compose up*
+*Скрин 1: docker-compose up
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/bf4aef45-6c61-44d2-8f9e-dbd88b19b2b2)
  *   2) Запустите код с помощью предоставленной тетрадки Jupyter
-*Скрин   2: Запуск jupyterlab*
+*Скрин   2: Запуск jupyterlab
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/cc607f37-54e7-4d20-86b8-81c248b97f00)
-*Скрин   3: Добавление тетрадки в jupyterlab*
+*Скрин   3: Добавление тетрадки в jupyterlab
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/60aed37d-2dff-4dd2-8ab5-dc0c451d632c)
-*Скрин   3:  Работа с jupyterlab*
+*Скрин   3:  Работа с jupyterlab
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/b1038baf-7d11-43be-ad08-244d0d31ec1b)
  *   3) Остановите кластер, набрав на терминале;ctrl+c
  *   4) Командой из шага 1 можно перезапустить кластер
