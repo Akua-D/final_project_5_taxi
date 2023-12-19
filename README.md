@@ -53,7 +53,8 @@ final_project_5_taxi<br>
  *   1) Запустите кластер командой " docker-compose up ", файл docker-compos прикреплён в структуре проекта проекта;
      2) Запустите код с помощью предоставленной тетрадки Jupyter
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/bf4aef45-6c61-44d2-8f9e-dbd88b19b2b2)
-![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/fee5bfb7-7c05-40ae-a3f3-c4bb3c683034)
+![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/cc607f37-54e7-4d20-86b8-81c248b97f00)
+![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/60aed37d-2dff-4dd2-8ab5-dc0c451d632c)
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/b1038baf-7d11-43be-ad08-244d0d31ec1b)
 
      4) Остановите кластер, набрав на терминале;ctrl+c
