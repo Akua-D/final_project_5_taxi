@@ -51,6 +51,7 @@ final_project_5_taxi<br>
  * Данные поездок Taxi могут быть скачаны по ссылке: https://disk.yandex.ru/d/DKeoopbGH1Ttuw
  * Файлы формата "ipynb" могут быть открыты в JupyterNotebook или Google Colab (также дополнительно приложена ссылка на образ докера, в котором уже есть JupyterLab и Spark и имеются нужные настройки).
  *   1) Запустите кластер командой " docker-compose up ", файл docker-compos прикреплён в структуре проекта проекта;
+
 *Скрин 1: docker-compose up*
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/bf4aef45-6c61-44d2-8f9e-dbd88b19b2b2)
      2) Запустите код с помощью предоставленной тетрадки Jupyter
