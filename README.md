@@ -56,8 +56,8 @@ final_project_5_taxi<br>
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/cc607f37-54e7-4d20-86b8-81c248b97f00)
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/60aed37d-2dff-4dd2-8ab5-dc0c451d632c)
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/b1038baf-7d11-43be-ad08-244d0d31ec1b)
- *   3) Остановите кластер, набрав на терминале "ctrl+c"
- *   4) Командой из шага 1 можно перезапустить кластер
+ * Остановит кластер можно набрав на терминале "ctrl+c"
+ * Командой из шага 1 можно перезапустить кластер
  * Файлы формата "scala" могут быть добавлены в проект в IntelliJ IDEA. Тогда дополнительно надо добавить следующие зависимости в структуру проекта: <br>
 &emsp;scalaVersion := "2.11.12" <br>
 &emsp;sparkVersion = "2.4.0" <br>
