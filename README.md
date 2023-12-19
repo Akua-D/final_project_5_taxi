@@ -33,6 +33,8 @@ final_project_5_taxi<br>
 &emsp;-README.md <br>
 &emsp;-project_taxi.pdf <br>
 &emsp;-project-schema.svg <br>
+&emsp; docker-compose.yml <br>
+
 
 **Комментарий по структуре проекта**
 1) В папке notebooks находятся ноутбуки выполнения задач проекта:
@@ -43,10 +45,15 @@ final_project_5_taxi<br>
 5) README.md - детальное описание проекта
 6) project_taxi.pdf - презентация в "pdf" формате
 7) project-schema.svg - схема проекта
+8) docker-compose.yml - Docker Compose используется для одновременного управления несколькими контейнерами, входящими в состав приложения
 
 **Руководство по использованию проекта**
  * Данные поездок Taxi могут быть скачаны по ссылке: https://disk.yandex.ru/d/DKeoopbGH1Ttuw
  * Файлы формата "ipynb" могут быть открыты в JupyterNotebook или Google Colab. Приложена ссылка на образ докера, в котором уже есть JupyterLab и Spark и имеются нужные настройки.
+ *   1) Запустите кластер командой " docker-compose up ", файл docker-compos прикреплён в стеке проекта;
+     2) Запустите код с помощью предоставленной тетрадки Jupyter
+     3) Остановите кластер, набрав на терминале;ctrl+c
+     4) Командой из шага 1 можно перезапустить кластер
  * Файлы формата "scala" могут быть добавлены в проект в IntelliJ IDEA. Тогда дополнительно надо добавить следующие зависимости в структуру проекта: <br>
 &emsp;scalaVersion := "2.11.12" <br>
 &emsp;sparkVersion = "2.4.0" <br>
