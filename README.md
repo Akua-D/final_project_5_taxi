@@ -52,12 +52,12 @@ final_project_5_taxi<br>
  * Файлы формата "ipynb" могут быть открыты в JupyterNotebook или Google Colab (также дополнительно приложена ссылка на образ докера, в котором уже есть JupyterLab и Spark и имеются нужные настройки).
  *   1) Запустите кластер командой " docker-compose up ", файл docker-compos прикреплён в структуре проекта проекта;
      2) Запустите код с помощью предоставленной тетрадки Jupyter
-![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/416382d4-d544-49a4-8343-97a8adf0458e)
+![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/bf4aef45-6c61-44d2-8f9e-dbd88b19b2b2)
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/fee5bfb7-7c05-40ae-a3f3-c4bb3c683034)
 ![image](https://github.com/Akua-D/final_project_5_taxi/assets/144109716/b1038baf-7d11-43be-ad08-244d0d31ec1b)
 
-     3) Остановите кластер, набрав на терминале;ctrl+c
-     4) Командой из шага 1 можно перезапустить кластер
+     4) Остановите кластер, набрав на терминале;ctrl+c
+     5) Командой из шага 1 можно перезапустить кластер
  * Файлы формата "scala" могут быть добавлены в проект в IntelliJ IDEA. Тогда дополнительно надо добавить следующие зависимости в структуру проекта: <br>
 &emsp;scalaVersion := "2.11.12" <br>
 &emsp;sparkVersion = "2.4.0" <br>
